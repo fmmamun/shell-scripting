@@ -1,0 +1,6 @@
+total 16K
+drwxrwxr-x  2 fmmamun fmmamun 4.0K Jul 22 12:11 .
+drwxr-xr-x 28 fmmamun fmmamun 4.0K Jul 22 12:11 ..
+-rw-rw-r--  1 fmmamun fmmamun    0 Jul 22 12:11 important-file.txt
+-rwxrwxr-x  1 fmmamun fmmamun  276 Jul 22 12:11 vars.sh
+-rwxrwxr-x  1 fmmamun fmmamun   77 Jul 19 12:29 welcome.sh
